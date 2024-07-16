@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">shpDemo</string>
+    <string name="save">Save</string>
+    <string name="display">Display</string>
+    <string name="enter_text_here">Enter Text Here</string>
+    <string name="your_saved_text_will_appear_here">Your Saved Text Will Appear Here</string>
+    <string name="text">text</string>
+</resources>
